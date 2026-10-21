@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/maria-luisa-souza-silva-3262aa323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:maluisas.souza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a
+
 ### 🚀 Sobre mim
 
 - Cursando Bacharelado em Sistemas de Informação (2024–2028).
